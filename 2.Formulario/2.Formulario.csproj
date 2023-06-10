@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>_2.Formulario</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="5.png" />
+    <None Remove="6.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="5.png" />
+    <Resource Include="6.png" />
+  </ItemGroup>
+</Project>

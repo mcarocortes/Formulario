@@ -1,0 +1,100 @@
+﻿<Window x:Name="window" x:Class="_2.Formulario.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2.Formulario"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="680" Width="680" MouseMove="movimiento"
+        
+        WindowStyle="None" 
+        ResizeMode="NoResize"
+         WindowStartupLocation="CenterScreen"
+        MouseDown="Window_MouseDown"
+        Background="Transparent"
+        AllowsTransparency="True">
+
+
+    <Grid x:Name="pantalla">
+
+        <Border CornerRadius="50">
+            <Border.Background>
+                <ImageBrush ImageSource="/5.png"/>
+            </Border.Background>
+
+            <Border CornerRadius="50"                    
+            Opacity="0.7">
+            </Border>
+        </Border>
+
+        <Label x:Name="Name" Content="Nombre" HorizontalAlignment="Left" Height="27" Margin="136,200,0,0" VerticalAlignment="Top" Width="125" FontFamily="Bahnschrift" FontSize="15" Foreground="#FF7B32A3"/>
+        <TextBox x:Name="Name_Text" HorizontalAlignment="Left" Height="17" Margin="280,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" FontSize="15" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.498,1.449" TextChanged="TextChanged" Background="Transparent" CaretBrush="LightGray" BorderBrush="DarkGray" BorderThickness="0,0,0,2" VerticalContentAlignment="Center" MaxLength="32" SelectionTextBrush="#FFA036EF" Foreground="#FF7B32A3"  />
+        <Label x:Name="Obligatory1" Content="Campo Obligatorio" HorizontalAlignment="Left" Height="27" Margin="362,203,0,0" VerticalAlignment="Top" Width="92" FontFamily="Bahnschrift" FontSize="10" Opacity="0.5" Foreground="#FFBF4EFE"/>
+
+        <Label x:Name="FirstSurname" Content="Primer Apellido" HorizontalAlignment="Left" Height="27" Margin="136,234,0,0" VerticalAlignment="Top" Width="125" FontFamily="Bahnschrift" FontSize="15" Foreground="#FF7B32A3"/>
+        <TextBox x:Name="FirstSurname_Text" HorizontalAlignment="Left" Height="17" Margin="280,239,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" FontSize="15" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.498,1.449" TextChanged="TextChanged" Background="Transparent" CaretBrush="LightGray" BorderBrush="DarkGray" BorderThickness="0,0,0,2" VerticalContentAlignment="Center" MaxLength="32" SelectionTextBrush="#FFA036EF" Foreground="#FF7B32A3" />
+        <Label x:Name="Obligatory2" Content="Campo Obligatorio" HorizontalAlignment="Left" Height="27" Margin="362,237,0,0" VerticalAlignment="Top" Width="92" FontFamily="Bahnschrift" FontSize="10" Opacity="0.5" Foreground="#FFBF4EFE"/>
+
+        <Label x:Name="SecondSurname" Content="Segundo Apellido" HorizontalAlignment="Left" Height="27" Margin="136,269,0,0" VerticalAlignment="Top" Width="134" FontFamily="Bahnschrift" FontSize="15" Foreground="#FF7B32A3"/>
+        <TextBox x:Name="SecondSurname_Text" HorizontalAlignment="Left" Height="17" Margin="280,274,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" FontSize="15" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.498,1.449" TextChanged="TextChanged" Background="Transparent" CaretBrush="LightGray" BorderBrush="DarkGray" BorderThickness="0,0,0,2" VerticalContentAlignment="Center" MaxLength="32" SelectionTextBrush="#FFA036EF" Foreground="#FF7B32A3" />
+        <RadioButton x:Name="Cliente" Content="Cliente" HorizontalAlignment="Left" Margin="304,174,0,0" VerticalAlignment="Top" FontSize="15" FontFamily="Bahnschrift" GroupName="TipoPersona" Checked="radio_Click" Foreground="#FF884CB0"/>
+        <Label x:Name="Obligatory3" Content="*" HorizontalAlignment="Left" Height="17" Margin="366,169,0,0" VerticalAlignment="Top" Width="24" FontFamily="Bahnschrift" FontSize="10" Foreground="#FFBF4EFE"/>
+
+        <RadioButton x:Name="Distribuidor" Content="Distribuidor" HorizontalAlignment="Left" Margin="410,174,0,0" VerticalAlignment="Top" FontSize="15" FontFamily="Bahnschrift" GroupName="TipoPersona" Checked="radio_Click" Foreground="#FF884CB0"/>
+        <Label x:Name="Obligatory4" Content="*" HorizontalAlignment="Left" Height="17" Margin="506,169,0,0" VerticalAlignment="Top" Width="22" FontFamily="Bahnschrift" FontSize="10" Foreground="#FFBF4EFE"/>
+
+        <Label x:Name="Number" Content="Telefono 1" HorizontalAlignment="Left" Height="27" Margin="136,301,0,0" VerticalAlignment="Top" Width="125" FontFamily="Bahnschrift" FontSize="15" Foreground="#FF7B32A3"/>
+        <TextBox x:Name="Number_Text" HorizontalAlignment="Left" Height="17" Margin="280,306,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" FontSize="15" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.498,1.449" TextChanged="TextChanged"  Background="Transparent" CaretBrush="LightGray" BorderBrush="DarkGray" BorderThickness="0,0,0,2" VerticalContentAlignment="Center" MaxLength="9" SelectionTextBrush="#FFA036EF" Foreground="#FF7B32A3"  />
+        <Label x:Name="Obligatory5" Content="Campo Obligatorio" HorizontalAlignment="Left" Height="27" Margin="362,304,0,0" VerticalAlignment="Top" Width="92" FontFamily="Bahnschrift" FontSize="10" Opacity="0.5" Foreground="#FFBF4EFE"/>
+
+        <Label x:Name="NumberSecond" Content="Telefono 2" HorizontalAlignment="Left" Height="26" Margin="136,331,0,0" VerticalAlignment="Top" Width="125" FontFamily="Bahnschrift" FontSize="15" Foreground="#FF7B32A3"/>
+        <TextBox x:Name="NumberSecond_Text" HorizontalAlignment="Left" Height="18" Margin="280,335,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" FontSize="15" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.498,1.449" TextChanged="TextChanged" Background="Transparent" CaretBrush="LightGray" BorderBrush="DarkGray" BorderThickness="0,0,0,2" VerticalContentAlignment="Center" MaxLength="9" SelectionTextBrush="#FFA036EF" Foreground="#FF7B32A3"  />
+
+        <Label x:Name="Correo" Content="Correo electrónico" HorizontalAlignment="Left" Height="26" Margin="136,367,0,0" VerticalAlignment="Top" Width="144" FontFamily="Bahnschrift" FontSize="15" Foreground="#FF7B32A3"/>
+        <TextBox x:Name="Correo_Text" HorizontalAlignment="Left" Height="18" Margin="280,371,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" FontSize="15" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.498,1.449" TextChanged="TextChanged"  Background="Transparent" CaretBrush="LightGray" BorderBrush="DarkGray" BorderThickness="0,0,0,2" VerticalContentAlignment="Center" MaxLength="100" SelectionTextBrush="#FFA036EF" Foreground="#FF7B32A3" />
+        <Label x:Name="Obligatory6" Content="Campo Obligatorio" HorizontalAlignment="Left" Height="27" Margin="362,371,0,0" VerticalAlignment="Top" Width="92" FontFamily="Bahnschrift" FontSize="10" Opacity="0.5" Foreground="#FFBF4EFE"/>
+
+        <Label x:Name="Address" Content="Dirección" HorizontalAlignment="Left" Height="27" Margin="136,401,0,0" VerticalAlignment="Top" Width="125" FontFamily="Bahnschrift" FontSize="15" Foreground="#FF7B32A3"/>
+        <TextBox x:Name="Address_Text" HorizontalAlignment="Left" Height="17" Margin="280,406,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" FontSize="15" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.498,1.449" TextChanged="TextChanged" Background="Transparent" CaretBrush="LightGray" BorderBrush="DarkGray" BorderThickness="0,0,0,2" VerticalContentAlignment="Center" MaxLength="100" SelectionTextBrush="#FFA036EF" Foreground="#FF7B32A3" />
+        <Label x:Name="Obligatory7" Content="Campo Obligatorio" HorizontalAlignment="Left" Height="27" Margin="362,404,0,0" VerticalAlignment="Top" Width="92" FontFamily="Bahnschrift" FontSize="10" Opacity="0.5" Foreground="#FFBF4EFE"/>
+
+        <Label x:Name="CP" Content="Código Postal" HorizontalAlignment="Left" Height="27" Margin="136,435,0,0" VerticalAlignment="Top" Width="125" FontFamily="Bahnschrift" FontSize="15" Foreground="#FF7B32A3"/>
+        <TextBox x:Name="CP_Text" HorizontalAlignment="Left" Height="17" Margin="280,440,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" FontSize="15" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.498,1.449" TextChanged="TextChanged"  Background="Transparent" CaretBrush="LightGray" BorderBrush="DarkGray" BorderThickness="0,0,0,2" VerticalContentAlignment="Center" SelectionTextBrush="#FFA036EF" Foreground="#FF7B32A3" MaxLength="5" />
+        <Label x:Name="Obligatory8" Content="Campo Obligatorio" HorizontalAlignment="Left" Height="27" Margin="362,438,0,0" VerticalAlignment="Top" Width="92" FontFamily="Bahnschrift" FontSize="10" Opacity="0.5" Foreground="#FFBF4EFE"/>
+
+        <Label x:Name="Pobla" Content="Población" HorizontalAlignment="Left" Height="27" Margin="136,471,0,0" VerticalAlignment="Top" Width="125" FontFamily="Bahnschrift" FontSize="15" Foreground="#FF7B32A3"/>
+        <TextBox x:Name="Pobla_Text" HorizontalAlignment="Left" Height="17" Margin="280,476,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" FontSize="15" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.498,1.449" TextChanged="TextChanged"  Background="Transparent" CaretBrush="LightGray" BorderBrush="DarkGray" BorderThickness="0,0,0,2" VerticalContentAlignment="Center" MaxLength="32" SelectionTextBrush="#FFA036EF" Foreground="#FF7B32A3" />
+        <Label x:Name="Obligatory9" Content="Campo Obligatorio" HorizontalAlignment="Left" Height="27" Margin="362,474,0,0" VerticalAlignment="Top" Width="92" FontFamily="Bahnschrift" FontSize="10" Opacity="0.5" Foreground="#FFBF4EFE"/>
+
+
+        <Label x:Name="Provi" Content="Provincia" HorizontalAlignment="Left" Height="27" Margin="136,507,0,0" VerticalAlignment="Top" Width="125" FontFamily="Bahnschrift" FontSize="15" Foreground="#FF7B32A3"/>
+        <ComboBox x:Name="Client_Combo" HorizontalAlignment="Left" Height="19" Margin="280,511,0,0" VerticalAlignment="Top" Width="256" IsEnabled="False" SelectionChanged="Seleccion_ComboBox">
+            <ComboBoxItem Content="-- Cliente --"/>
+            <ComboBoxItem Content="Castellón"/>
+            <ComboBoxItem Content="Valencia"/>
+            <ComboBoxItem Content="Alicante"/>
+            <ComboBoxItem Content="Murcia"/>
+            <ComboBoxItem Content="Albacete"/>
+            <ComboBoxItem Content="Cuenca"/>
+            <ComboBoxItem Content="Teruel"/>
+        </ComboBox>
+        <ComboBox x:Name="Distr_Combo" HorizontalAlignment="Left" Height="19" Margin="280,511,0,0" VerticalAlignment="Top" Width="257" IsEnabled="False" SelectionChanged="Seleccion_ComboBox" >
+            <ComboBoxItem Content="-- Distribuidor --"/>
+            <ComboBoxItem Content="Castellón"/>
+            <ComboBoxItem Content="Valencia"/>
+            <ComboBoxItem Content="Alicante"/>
+        </ComboBox>
+        <Button x:Name="Aceptar_btn" Content="Aceptar" HorizontalAlignment="Left" Height="35" Margin="195,555,0,0" VerticalAlignment="Top" Width="118" Background="#FF00E6BA" FontFamily="Bahnschrift" FontWeight="Bold" FontSize="18" BorderBrush="{x:Null}" Foreground="White" Click="btn_click"/>
+        <Label x:Name="Obligatory10" Content="Campo Obligatorio" HorizontalAlignment="Left" Height="27" Margin="362,510,0,0" VerticalAlignment="Top" Width="92" FontFamily="Bahnschrift" FontSize="10" Opacity="0.5" Foreground="#FFBF4EFE"/>
+        <Button x:Name="Cancel_btn" Content="Cancelar" HorizontalAlignment="Left" Height="34" Margin="373,557,0,0" VerticalAlignment="Top" Width="116" Click="btn_click" Background="{x:Null}" FontFamily="Bahnschrift" FontWeight="Bold" FontSize="18" BorderBrush="{x:Null}" Foreground="White" />
+
+
+        <!-- VENTANA DE NOTIFICACIÓN PERSONALIZADA, NO ES "MESSAGE.SHOW" -->
+        <Image x:Name="notificacion" HorizontalAlignment="Center" Height="188" Margin="0,284,0,0" VerticalAlignment="Top" Width="418" Source="/6.png" Visibility="Hidden"/>
+        <Label x:Name="invalid_msg"  Content="Ingresa Un Formato Válido" HorizontalAlignment="Left" Height="34" VerticalAlignment="Top" Width="252" FontFamily="Bahnschrift" Foreground="#FF600781" FontSize="20" Margin="222,355,0,0" Visibility="Hidden"/>
+        <TextBox x:Name="insertValues" HorizontalAlignment="Left" Height="170" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top"  Width="376" FontFamily="Bahnschrift" Foreground="#FF530670" Background="{x:Null}" BorderBrush="{x:Null}" TextAlignment="Center" Margin="148,340,0,0" FontSize="13" FontWeight="Bold" SelectionOpacity="100" SelectionBrush="{x:Null}" IsEnabled="False" Visibility="Hidden"/>
+        <Button x:Name="Entendido_btn" Content="Entendido" HorizontalAlignment="Left" Height="29" Margin="294,409,0,0" VerticalAlignment="Top" Width="89" Background="{x:Null}" FontFamily="Bahnschrift" FontWeight="Bold" FontSize="15" BorderBrush="{x:Null}" Foreground="White" Visibility="Hidden" Click="btn_click" />
+
+
+    </Grid>
+</Window>

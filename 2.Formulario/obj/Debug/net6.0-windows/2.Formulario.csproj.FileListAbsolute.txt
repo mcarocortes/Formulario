@@ -1,0 +1,189 @@
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.exe
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.deps.json
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.runtimeconfig.json
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.AssemblyReference.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.lref
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.g.resources
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfoInputs.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfo.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.CoreCompileInputs.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\refint\2.Formulario.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.genruntimeconfig.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\ref\2.Formulario.dll
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.exe
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.deps.json
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.runtimeconfig.json
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.cache
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.lref
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.g.resources
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\refint\2.Formulario.dll
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\2.Formulario-20230206T084313Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\ref\2.Formulario.dll
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.exe
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.deps.json
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.runtimeconfig.json
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.AssemblyReference.cache
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.cache
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.lref
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.g.resources
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfoInputs.cache
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfo.cs
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.CoreCompileInputs.cache
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\refint\2.Formulario.dll
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.genruntimeconfig.cache
+C:\Users\mcaro\Downloads\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\ref\2.Formulario.dll
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.exe
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.deps.json
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.runtimeconfig.json
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.cache
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.lref
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.g.resources
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\refint\2.Formulario.dll
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\2.Formulario_4tav-20230209T074834Z-001\2.Formulario_4tav\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\ref\2.Formulario.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.AssemblyReference.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.lref
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\refint\2.Formulario.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.exe
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.deps.json
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.runtimeconfig.json
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.g.resources
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfoInputs.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfo.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.CoreCompileInputs.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.genruntimeconfig.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\2.FORM\2.Formulario-shortest1\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\ref\2.Formulario.dll
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.exe
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.deps.json
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.runtimeconfig.json
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.cache
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.lref
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.g.resources
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\refint\2.Formulario.dll
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\2.Formulario-20230213T093856Z-001\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\ref\2.Formulario.dll
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.exe
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.deps.json
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.runtimeconfig.json
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.cache
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.lref
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.g.resources
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\refint\2.Formulario.dll
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\2.Formulario\2.Formulario\obj\Debug\net6.0-windows\ref\2.Formulario.dll
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.exe
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.deps.json
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.runtimeconfig.json
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.cache
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.lref
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.g.resources
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\refint\2.Formulario.dll
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\1.Formulario_MacarenaCaro\1.Formulario_MacarenaCaro\2.Formulario\obj\Debug\net6.0-windows\ref\2.Formulario.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.exe
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.deps.json
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.runtimeconfig.json
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\bin\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.AssemblyReference.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario_MarkupCompile.lref
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.g.resources
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfoInputs.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.AssemblyInfo.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.csproj.CoreCompileInputs.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\refint\2.Formulario.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.pdb
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\2.Formulario.genruntimeconfig.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\3.Formulario\2.Formulario\obj\Debug\net6.0-windows\ref\2.Formulario.dll
